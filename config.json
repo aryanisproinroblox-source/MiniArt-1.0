@@ -1,0 +1,16 @@
+{
+  "model_name": "Mini Art 1.0",
+  "developer": "OSAMA INC",
+  "origin": "India",
+  "format": "GGUF",
+  "quantization": "Q4_K_M",
+  "file_size_mb": 468,
+  "license": "apache-2.0",
+  "context_length": 2048,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "repeat_penalty": 1.1,
+  "pipeline_tag": "text-generation",
+  "languages": ["en"],
+  "tags": ["text-generation", "gguf", "creative"]
+}
